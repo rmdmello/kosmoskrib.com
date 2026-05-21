@@ -618,6 +618,11 @@ select {
   width: min(100%, 360px);
 }
 
+.contact-list .social-button {
+  border-color: rgba(246, 243, 238, 0.42);
+  color: var(--cream);
+}
+
 .site-footer {
   display: grid;
   grid-template-columns: minmax(160px, 220px) 1fr auto;
